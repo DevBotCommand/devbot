@@ -63,5 +63,5 @@ bot.on('message', (msg)=> {
 
 });
 //-----------------------------------------------
-bot.login('NzI1NTExODMzODMzODMyNDY5.XvfTpg.lDRe0POw6qpQ0BzQNodtL6UqkHQ');
+bot.login('NzI1NTExODMzODMzODMyNDY5.Xxlb5w.warQ5ZlynQI80viByJY7gQmxvIM');
 //-----------------------------------------------
